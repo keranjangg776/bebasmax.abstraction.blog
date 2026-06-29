@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bebasmax.abstraction.blog/sitemap.xml
